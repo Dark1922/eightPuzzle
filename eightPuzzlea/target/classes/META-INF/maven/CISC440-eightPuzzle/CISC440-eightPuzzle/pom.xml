@@ -30,7 +30,7 @@
             <artifactId>gridgames</artifactId>
             <version>1.0</version>
             <scope>system</scope>
-            <systemPath>${project.basedir}/lib/gridgames.jar</systemPath>
+            <systemPath>${project.basedir}/lib/gridgames.jar</systemPath> 
         </dependency>
     </dependencies>
 </project>
